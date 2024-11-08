@@ -1,0 +1,16 @@
+{
+    "name": "PWA con Node-Santander_Omar",
+    "short_name": "PWA-Node",
+    "description": "Construida con Node",
+    "icons": [
+      {
+        "src": "./images/image.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ],
+    "start_url": "/",
+    "display": "fullscreen",
+    "theme_color": "#764ABC",
+    "background_color": "#764ABC"
+  }
