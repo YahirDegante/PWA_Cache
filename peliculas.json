@@ -1,0 +1,40 @@
+{
+    "peliculas": [
+        {
+            "id": 1,
+            "nombre": "El sexto sentido",
+            "director": "M. Night Shyamalan",
+            "clasificación": "Drama"
+        },
+        {
+            "id": 2,
+            "nombre": "Spiderman: No Way Home",
+            "director": "Jon Watts",
+            "clasificación": "Acción"
+        },
+        {
+            "id": 3,
+            "nombre": "Rápidos y Furiosos 7",
+            "director": "James Wan",
+            "clasificación": "Acción"
+        },
+        {
+            "id": 4,
+            "nombre": "Interestelar",
+            "director": "Christopher Nolan",
+            "clasificación": "Ciencia Ficción"
+        },
+        {
+            "id": 5,
+            "nombre": "Coco",
+            "director": "Lee Unkrich",
+            "clasificación": "Animación"
+        },
+        {
+            "id": 6,
+            "nombre": "El Padrino",
+            "director": "Francis Ford Coppola",
+            "clasificación": "Crimen"
+        }
+    ]
+}
